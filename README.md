@@ -23,6 +23,6 @@ Please check the following link: https://kby-ai.github.io/facecapture-web/
 - To request SDK, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyaisupport](https://t.me/kbyaisupport)</br>
-🧙`WhatsApp:` [+19092802609](https://wa.me/+19092802609)</br>
+🧙`WhatsApp:` [+13348402323](https://wa.me/+13348402323)</br>
 🧙`Discord:` [KBY-AI](https://discord.gg/6wm383re2s)</br>
 🧙`Teams:` [KBY-AI](https://teams.live.com/l/invite/FBAYGB1-IlXkuQM3AY)</br>
